@@ -1,0 +1,34 @@
+{
+    "name": "Celo Alfajores Token List",
+    "timestamp": "2024-07-31T00:00:00+00:00",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png",
+    "keywords": [
+      "null"
+    ],
+    "tokens": [
+
+      {
+        "address": "0xc70438d489afb0e0465f784f3f82fda9c014e258",
+        "chainId": 44787,
+        "name": "TOKEN1",
+        "symbol": "TOK1",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+      },
+
+      {
+        "address": "0xaee88945b3bd2a64fba56a59bed02388e5c805b4",
+        "chainId": 44787,
+        "name": "TOKEN2",
+        "symbol": "TOK2",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+      }
+
+    ]
+  }
